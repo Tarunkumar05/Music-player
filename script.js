@@ -60,8 +60,8 @@ playBtn.addEventListener('click', () => (isPlaying ? pauseSong() : playSong()));
 function loadSong(song) {
     title.textContent = song.displayName;
     artist.textContent = song.artist; //by using text content  we can ignore or not reflow something that is the exact same
-    music.src = `Music-player/music/${song.name}.mp3`;
-    image.src = `Music-player/img/${song.name}.jpg`;
+    music.src = `music-player/music/${song.name}.mp3`;
+    image.src = `music-player/img/${song.name}.jpg`;
 
 }
 
