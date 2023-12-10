@@ -13,22 +13,22 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
     {
-        name: 'Tarun-1',
+        name: 'tarun-1',
         displayName: 'Hona Tha Pyar',
         artist: 'Tarun Design'
     },
     {
-        name: 'Tarun-2',
+        name: 'tarun-2',
         displayName: 'check it out',
         artist: 'Tarun Design'
     },
     {
-        name: 'Tarun-3',
+        name: 'tarun-3',
         displayName: 'Baller',
         artist: 'Tarun Design'
     },
     {
-        name: 'Tarun-4',
+        name: 'tarun-4',
         displayName: 'Dior',
         artist: 'Tarun Design'
     }
