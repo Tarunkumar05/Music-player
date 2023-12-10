@@ -1,1 +1,2 @@
 # Music-player
+A simple and stylish music player created using HTML, CSS, and JavaScript. This project features a responsive interface with album art display, song information, and playback controls. Users can play, pause, skip to the next or previous track, and interact with a progress bar to navigate through the song. The player supports multiple songs and provides real-time updates on the song's progress. Enjoy your favorite tunes with this intuitive and visually appealing music player.
