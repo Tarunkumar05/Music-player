@@ -31,7 +31,62 @@ const songs = [
         name: 'tarun-4',
         displayName: 'Hona Tha Pyaar',
         artist: 'Tarun Design'
-    }
+    },
+    {
+        name: 'tarun-5',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-6',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-7',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-8',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-9',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-10',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-11',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-12',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-13',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-14',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
+    {
+        name: 'tarun-15',
+        displayName: 'Hona Tha Pyaar',
+        artist: 'Tarun Design'
+    },
 ]
 
 // Check if Playing
