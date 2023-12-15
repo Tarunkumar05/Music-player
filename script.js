@@ -15,77 +15,77 @@ const songs = [
     {
         name: 'tarun-1',
         displayName: 'Mere Bina',
-        artist: 'Tarun Design'
+        artist: 'Tarun '
     },
     {
         name: 'tarun-2',
         displayName: 'Mere Humsafar',
-        artist: 'Tarun Design'
+        artist: 'Tarun '
     },
     {
         name: 'tarun-3',
         displayName: 'Dil Ko ',
-        artist: 'Tarun Design'
+        artist: 'Tarun '
     },
     {
         name: 'tarun-4',
         displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        artist: 'Tarun '
     },
     {
         name: 'tarun-5',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Saware',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-6',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'With You',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-7',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Ishq Bulavaa',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-8',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Tere Bin',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-9',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Mera Mann',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-10',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Faasle',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-11',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Tum Mile',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-12',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Irraday',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-13',
         displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        artist: 'Tarun '
     },
     {
         name: 'tarun-14',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Ijazat',
+        artist: 'Tarun '
     },
     {
         name: 'tarun-15',
-        displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun Design'
+        displayName: 'Until I Found You',
+        artist: 'Tarun '
     },
 ]
 
