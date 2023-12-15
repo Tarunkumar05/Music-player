@@ -49,32 +49,32 @@ const songs = [
     },
     {
         name: 'tarun-8',
-        displayName: 'Tere Bin',
+        displayName: 'Mera Yaar',
         artist: 'Tarun '
     },
     {
         name: 'tarun-9',
-        displayName: 'Mera Mann',
+        displayName: 'Tere Bin',
         artist: 'Tarun '
     },
     {
         name: 'tarun-10',
-        displayName: 'Faasle',
+        displayName: 'Mera Mann',
         artist: 'Tarun '
     },
     {
         name: 'tarun-11',
-        displayName: 'Tum Mile',
+        displayName: 'Faasle',
         artist: 'Tarun '
     },
     {
         name: 'tarun-12',
-        displayName: 'Irraday',
+        displayName: 'Tum Mile',
         artist: 'Tarun '
     },
     {
         name: 'tarun-13',
-        displayName: 'Hona Tha Pyaar',
+        displayName: 'Irraday',
         artist: 'Tarun '
     },
     {
