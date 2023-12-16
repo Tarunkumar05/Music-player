@@ -87,6 +87,36 @@ const songs = [
         displayName: 'Until I Found You',
         artist: 'Goru '
     },
+    {
+        name: 'tarun-16',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
+    {
+        name: 'tarun-17',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
+    {
+        name: 'tarun-18',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
+    {
+        name: 'tarun-19',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
+    {
+        name: 'tarun-20',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
+    {
+        name: 'tarun-21',
+        displayName: 'Until I Found You',
+        artist: 'Goru '
+    },
 ]
 
 // Check if Playing
