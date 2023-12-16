@@ -89,32 +89,32 @@ const songs = [
     },
     {
         name: 'tarun-16',
-        displayName: 'Until I Found You',
+        displayName: 'Hosana',
         artist: 'Goru '
     },
     {
         name: 'tarun-17',
-        displayName: 'Until I Found You',
+        displayName: 'Hai Mera Dil',
         artist: 'Goru '
     },
     {
         name: 'tarun-18',
-        displayName: 'Until I Found You',
+        displayName: 'Zara Zara',
         artist: 'Goru '
     },
     {
         name: 'tarun-19',
-        displayName: 'Until I Found You',
+        displayName: 'Udaarian',
         artist: 'Goru '
     },
     {
         name: 'tarun-20',
-        displayName: 'Until I Found You',
+        displayName: 'Dil Na Jaaneya',
         artist: 'Goru '
     },
     {
         name: 'tarun-21',
-        displayName: 'Until I Found You',
+        displayName: 'Humsafar',
         artist: 'Goru '
     },
 ]
