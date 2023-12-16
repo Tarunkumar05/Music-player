@@ -15,67 +15,67 @@ const songs = [
     {
         name: 'tarun-1',
         displayName: 'Mere Bina',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-2',
         displayName: 'Mere Humsafar',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-3',
         displayName: 'Dil Ko ',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-4',
         displayName: 'Hona Tha Pyaar',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-5',
         displayName: 'Saware',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-6',
         displayName: 'With You',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-7',
         displayName: 'Ishq Bulavaa',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-8',
         displayName: 'Mera Yaar',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-9',
         displayName: 'Tere Bin',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-10',
         displayName: 'Mera Mann',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-11',
         displayName: 'Faasle',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-12',
         displayName: 'Tum Mile',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-13',
         displayName: 'Irraday',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
     {
         name: 'tarun-14',
@@ -85,7 +85,7 @@ const songs = [
     {
         name: 'tarun-15',
         displayName: 'Until I Found You',
-        artist: 'Tarun '
+        artist: 'Goru '
     },
 ]
 
