@@ -117,6 +117,11 @@ const songs = [
         displayName: 'Humsafar',
         artist: 'Goru '
     },
+    {
+        name: 'tarun-23',
+        displayName: 'Dagabaaz Re',
+        artist: 'Goru '
+    },
 ]
 
 // Check if Playing
